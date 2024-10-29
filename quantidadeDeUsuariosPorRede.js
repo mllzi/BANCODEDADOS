@@ -10,7 +10,7 @@ const data = [
     {
         x: nomeDasRedes,
         y: quantidadeUsuariosPorRede,
-        type: 'bar'
+        type: 'bar',
         marker: {
             color: getCSS('--primary-color')
         }
